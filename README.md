@@ -6,7 +6,7 @@
   <!-- <a href="https://01githubexplorer.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">01 Github Explorer</h1>
+<h1 align="center">Desafio 02: Componentizando sua aplicação</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jnerydesigner/01-github-explorer?color=56BEB8">
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/01-github-explorer
+$ git clone https://github.com/jnerydesigner/01-github-explorer
 
 # Access
 $ cd 01-github-explorer
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/jnerydesigner" target="_blank">jnerydesigner</a>
 
 &#xa0;
 
