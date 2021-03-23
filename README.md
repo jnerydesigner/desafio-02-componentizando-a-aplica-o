@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="01 Github Explorer" />
+  <img src="https://github.com/jnerydesigner/desafio-02-componentizando-a-aplica-o/blob/main/src/assets/font-img.jpg" alt="Desafio 02: Componentizando sua aplicação" />
 
   &#xa0;
 
