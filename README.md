@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/jnerydesigner/desafio-02-componentizando-a-aplica-o/blob/main/src/assets/bg.jpg" alt="Desafio 02: Componentizando sua aplicação" />
+  <img src="https://github.com/jnerydesigner/desafio-02-componentizando-a-aplica-o/blob/main/src/assets/bg.png" alt="Desafio 02: Componentizando sua aplicação" />
 
   &#xa0;
 
